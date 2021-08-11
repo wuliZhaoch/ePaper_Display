@@ -143,23 +143,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UCZEBZIS
 
 [Document7]
-DocumentPath=ePpaer_Display_V1.0.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XMWASOJN
-
-[Document8]
 DocumentPath=AMEPD_Port.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,17 +159,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMRNVOWB
 
+[Document8]
+DocumentPath=ePpaer_Display_V1.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XMWASOJN
+
 [ProjectVariant1]
 UniqueID=2351A12E-D0B9-4995-9BED-1DAF935F78A5
 Description=Variant of ePaper_Display
 AllowFabrication=1
 ParameterCount=0
-VariationCount=5
+VariationCount=11
 Variation1=Designator=R1|UniqueId=\WERFFRBR\OPQUBGNG|Kind=1|AlternatePart= 
 Variation2=Designator=R6|UniqueId=\NXODTWPR\IORBDQRW|Kind=1|AlternatePart= 
 Variation3=Designator=P2|UniqueId=\WERFFRBR\IXHGHARV|Kind=1|AlternatePart= 
 Variation4=Designator=R37|UniqueId=\WFFEXHEF\VGTIOQHV|Kind=1|AlternatePart= 
 Variation5=Designator=P1|UniqueId=\GPODIGFM\EMCVROPO|Kind=1|AlternatePart= 
+Variation6=Designator=R25|UniqueId=\WERFFRBR\VSIWEIHK|Kind=1|AlternatePart= 
+Variation7=Designator=R26|UniqueId=\WERFFRBR\XWZQOXIT|Kind=1|AlternatePart= 
+Variation8=Designator=R27|UniqueId=\WERFFRBR\GSSYFFFF|Kind=1|AlternatePart= 
+Variation9=Designator=R28|UniqueId=\WERFFRBR\TZGTXKZT|Kind=1|AlternatePart= 
+Variation10=Designator=R29|UniqueId=\WERFFRBR\WPTCMFSJ|Kind=1|AlternatePart= 
+Variation11=Designator=R30|UniqueId=\WERFFRBR\CZEDRSDP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
